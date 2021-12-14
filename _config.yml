@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "ThanksMia"
-  avatar           :  "/assets/images/elfenliedpic.png"
+  avatar           : "/assets/images/elfenliedpic.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
