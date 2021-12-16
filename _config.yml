@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "DuaneCoin"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : powered by ThanksMia
 name                     : "Duanecoin"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,8 +102,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "ThanksMia"
-  avatar           : "/assets/images/elfenliedpic.jpg"
+  name             : "DuaneCoin"
+  avatar           : "/assets/images/miaprofilepic.png"
   bio              : "Feel the Duane"
   location         : "Somewhere"
   email            :
