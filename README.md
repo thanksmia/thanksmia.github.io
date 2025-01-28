@@ -6,6 +6,8 @@ Cooperation with  SOLANA:
 
 Solana: https://pump.fun/coin/E9997LkZEWxG4ey64THir5frzTHnxN9DaK1VPyzUpump
 
+https://solscan.io/tx/2moAwByLRKMv8h1AbXNjzFEQAiWoJWEq724oNyNPsGRwirfRbMRPcrJ9CCui9XiA8yjS8Mhqvs5QFqQ4Emi9m68y
+
 Cooperation with PULSECHAIN:
 
 What are u Buyin https://gopulse.com/token/0xcca2979f90ba1b277b0b4f2f8b8d5f80b5bc769e
