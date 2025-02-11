@@ -4,6 +4,12 @@
 The Evolution Of Cryptocurrency and Memes an ever-expanding ecosystem of interconnected Blockchains for a decentralized future of Money.
 Cooperation with  SOLANA:
 
+
+Solana Raydium DuaneCoin dexscreener Official: https://dexscreener.com/solana/7kq3v9bngpnktmtrsmspnycfa7jjskpuqxiue6ackthr
+
+Buy and Sell DuaneCoin  on Raydium Official: https://raydium.io/swap/?inputMint=sol&outputMint=3vK8ixZ6hADzHtuatU88g7u4XnfFkQsfmTgzeomXbh8h
+
+
 Solana: https://pump.fun/coin/E9997LkZEWxG4ey64THir5frzTHnxN9DaK1VPyzUpump
 
 https://solscan.io/tx/2moAwByLRKMv8h1AbXNjzFEQAiWoJWEq724oNyNPsGRwirfRbMRPcrJ9CCui9XiA8yjS8Mhqvs5QFqQ4Emi9m68y
