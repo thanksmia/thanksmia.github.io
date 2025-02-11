@@ -6,7 +6,8 @@ Cooperation with  SOLANA:
 
 DuaneCoin $DC #Duane #DuaneCoin first innovation Reversal Code write whatever disease or thing  u want to get rid of on top where the yellow arrow points, wear it,   it will reverse it! within 24hr  https://raydium.io/swap/?inputMint=sol&outputMint=3vK8ixZ6hADzHtuatU88g7u4XnfFkQsfmTgzeomXbh8h have Fun and be Creative!
 
- ![alt text]([http://url/to/img.png](https://pbs.twimg.com/media/Gjd_n44XQAAoHs1?format=jpg&name=4096x4096))
+ ![alt text]([http://url/to/img.png](https://github.com/thanksmia/thanksmia.github.io/blob/master/duanecoincode.jpg))
+ 
 
 
 
