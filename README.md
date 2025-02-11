@@ -4,6 +4,9 @@
 The Evolution Of Cryptocurrency and Memes an ever-expanding ecosystem of interconnected Blockchains for a decentralized future of Money.
 Cooperation with  SOLANA:
 
+DuaneCoin $DC #Duane #DuaneCoin first innovation Reversal Code write whatever disease or thing  u want to get rid of on top where the yellow arrow points, wear it,   it will reverse it! within 24hr  https://raydium.io/swap/?inputMint=sol&outputMint=3vK8ixZ6hADzHtuatU88g7u4XnfFkQsfmTgzeomXbh8h have Fun and be Creative!
+![alt text]([http://url/to/img.png](https://x.com/miaextreme/status/1889119791329251419/photo/1))
+
 
 Solana Raydium DuaneCoin dexscreener Official: [https://dexscreener.com/solana/7kq3v9bngpnktmtrsmspnycfa7jjskpuqxiue6ackthr](https://dexscreener.com/solana/7kq3v9bngpnktmtrsmspnycfa7jjskpuqxiue6ackthr)
 
