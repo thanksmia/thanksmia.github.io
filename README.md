@@ -13,6 +13,10 @@ Buy and Sell DuaneCoin  on Raydium Official: https://raydium.io/swap/?inputMint=
 Solana: https://pump.fun/coin/E9997LkZEWxG4ey64THir5frzTHnxN9DaK1VPyzUpump
 
 https://solscan.io/tx/2moAwByLRKMv8h1AbXNjzFEQAiWoJWEq724oNyNPsGRwirfRbMRPcrJ9CCui9XiA8yjS8Mhqvs5QFqQ4Emi9m68y
+Cooperation with BNB: 
+
+BNB chain Contract : https://bscscan.com/address/0xb70B3DF6cD117a2721C3F40081187a1f703F2F33#readContract
+
 
 Cooperation with PULSECHAIN:
 
